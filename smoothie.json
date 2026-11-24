@@ -16,5 +16,6 @@
       "unit": "cup"
     }
   ],
-  "custom_metrics": {}
+  "custom_metrics": {},
+  "last_metrics": {}
 }
