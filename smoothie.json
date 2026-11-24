@@ -1,0 +1,20 @@
+{
+  "title": "smoothie",
+  "description": "",
+  "category": "Dessert",
+  "ingredients": [
+    {
+      "name": "Frozen Strawberries",
+      "amount": 1,
+      "quantity": 1,
+      "unit": "cup"
+    },
+    {
+      "name": "Wild Blueberries",
+      "amount": 1,
+      "quantity": 1,
+      "unit": "cup"
+    }
+  ],
+  "custom_metrics": {}
+}
